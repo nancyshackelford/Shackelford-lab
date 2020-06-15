@@ -5,7 +5,7 @@ Maintained by the Restoration Futures Lab
 
 ### Repository description --
 
-This repository includes lab protocols of the Restoration Futures Laboratory at the University of Victoria. Lab protocols are updated and maintained regularly.
+This repository includes lab protocols of the Restoration Futures Laboratory at the University of Victoria. Lab protocols are updated and maintained regularly. Finalized versions are stored in the Open Science Facilities (https://osf.io/xwngp/), though are still under active development when needed.
 
 *** 
 
