@@ -17,7 +17,7 @@ This database includes spatial data of natural features and management activitie
 | <b>Arbutus menziesii Points</b> | Areas of <i>Arbutus menziesii</i> found by Harrop-Archibald (2008). | Obtained from Val Shaefer, Restoration of Natural Systems Director (2005-2019). | cpg, dbf, prj, qpj, shp, shx, xlsx | 
 | Name | Description | Source | Extensions |
 | :---: | :---: | :---: | :--- |
-| <b>Blowdown zone</b> | Polygon shape file of Green Team activities at the University of Victoria. Green Teams is contracted to engage and organize volunteer English Ivy (<i>Hedera helix</i>) pulls in Mystic Vale, a woodland on the southeast border of the campus grounds. Each shape represents an area of active removal through the Green Teams contract, from 2018 to present. | Data was provided by Green Teams, and compiled and processed by the Restoration Futures Lab in QGIS. | cpg, dbf, prj, qpj, shp, shx |
+| <b>Blowdown zone</b> | Area of blowdown zones in  | Data was collected by Hilary Harrop-Archibald (2007,2008) and provided by Val Schaefer, former Restoration of Natural Systems Director (2005-2019), and compiled and processed by the Restoration Futures Lab in QGIS. | cpg, dbf, prj, qpj, shp, shx, xlsx |
 | <b>Camas Meadow</b> | DESCRIPTION OF FILE | SOURCE OF FILE | EXTENSIONS | 
 | Name | Description | Source | Extensions |
 | :---: | :---: | :---: | :--- |
