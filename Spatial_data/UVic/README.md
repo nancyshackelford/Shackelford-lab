@@ -7,6 +7,7 @@ Maintained by the Restoration Futures Lab
 
 This database includes spatial data of natural features and management activities at the University of Victoria. Each data set has been uploaded in a zip folder that includes meta-data documentation.
 
+Any references report, manuals, or other documents can be found on https://osf.io/xwngp/. 
 *** 
 
 ## Data files
