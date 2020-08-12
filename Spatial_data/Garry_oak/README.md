@@ -26,7 +26,7 @@ Any references report, manuals, or other documents can be found on https://osf.i
 | <b>cdfmm_GOE<b> | Coastal Douglas fir biogeoclimatic zone, moist maritime subzone TEM of potential Garry oak ecosystems on southeastern Vancouver Island, the Gulf Islands, and portions of the Sunshine Coast. | Madrone Environmental Services Ltd. (2008). | pdf, zip |
 *** 
 1. North American Land Change Monitoring System (NALCMS). Land Cover 30m, 2015 (Landsat and RapidEye). Retrieved from the Commission for Environmental Cooperation (CEC) website: http://www.cec.org/north-american-environmental-atlas/land-cover-30m-2015-landsat-and-rapideye/
-2. BC Government Sensitive Ecosystem Inventory (SEI). (2011)
+2. BC Government Sensitive Ecosystem Inventory (SEI). (2011).
 3. GBIF.org (18 June 2020) GBIF Occurrence Download https://doi.org/10.15468/dl.fn4d23
 4. Lea, T. (2002). Terrestrial Information Branch, British Columbia Ministry of Sustainable Resource Management, Victoria, B.C.
-5. Lilley, P. (2007). Determinants of native and exotic plant diversity and composition in remnant oak savannas on Southeastern Vancouver Island (Master's thesis). University of British Columbia, Vancouver, BC.
+5. Lilley, P. (2007). <i>Determinants of native and exotic plant diversity and composition in remnant oak savannas on Southeastern Vancouver Island</i> (Master's thesis). University of British Columbia, Vancouver, BC.
