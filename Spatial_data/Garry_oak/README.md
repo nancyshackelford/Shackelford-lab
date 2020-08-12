@@ -14,5 +14,5 @@ Any references report, manuals, or other documents can be found on https://osf.i
 
 | Name | Description | Source | Extensions |
 | :---: | :---: | :---: | :--- |
-| <b>NAME</b> | DESCRIPTION | SOURCE | EXTENSIONS |
+| <b>CEC2015_CRD_raster</b> | Land cover classification raster (30m resolution) clipped to the CRD boundary on Southern Vancouver Island. | North American Land Change Monitoring System (NALCMS). Land Cover 30m, 2015 (Landsat and RapidEye). Retrieved from the Commission for Environmental Cooperation (CEC) website and processed by the Restoration Futures Lab in QGIS. | pdf, zip |
 *** 
